@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Getting started in NodeJS with simple examples.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/norayrsoftware/NodeJS_tasks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/norayrsoftware/NodeJS_tasks/issues"
+  },
+  "homepage": "https://github.com/norayrsoftware/NodeJS_tasks#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
